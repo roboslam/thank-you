@@ -96,23 +96,17 @@ img {
 }
 
 .container {
-   /* position: relative;*/
     overflow: auto;
-   /* width: 0 auto;
-    /*margin: 20px auto 20px auto;
-    max-width: 2400px;*/
     display:block;
 
 }
 
 .left-column {
-   /*padding: 15px;*/
    float: left;
    width: 45%;
 }
 
 .right-column {
-   /* padding: 15px;*/
     float: right;
     width: 45%;
 }
@@ -121,7 +115,6 @@ img {
 
 
 footer {
-    /*position: absolute;*/
     bottom: 0;
     left: 20;
     height: 50px;
